@@ -1,4 +1,4 @@
-== Simple Pages
+h1. Simple Pages
 
 simple-pages is a ruby library to easily render static pages in your Ruby on Rails application.
 
